@@ -40,7 +40,7 @@ p {
 	background-color: #00CED1;
 	padding: 20px;
 	margin-left: 15px;
-	margin-right: 15px; 
+	margin-right: 15px;
 }
 
 .PortfolioT {
@@ -87,6 +87,10 @@ p {
 .EveryTrivia {
 	height: 100%;
 	width : 100%;
+}
+.portfolioPicture {
+	height: 200px;
+	width: 200px;
 }
 
 .forest {
